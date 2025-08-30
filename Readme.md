@@ -1,0 +1,1 @@
+## end to end fire recognition using YOLOv8
